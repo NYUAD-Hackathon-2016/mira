@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mira</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_ring_tone_modifier">RingToneModifier</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_signup2">Signup2</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+</resources>
